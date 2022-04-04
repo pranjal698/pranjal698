@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pranjal698
-- 👀 I’m interested in develpoingsomething new.
-- 🌱 I’m currently learning python, nft.
-- 💞️ I’m looking to collaborate on open source.
-- 📫 How to reach me @pranjal698.
+- 👀 I’m interested in Exploring.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Open Source.
+- 📫 How to reach me #1 Instagram : @pranjal698.
 
 <!---
 pranjal698/pranjal698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
