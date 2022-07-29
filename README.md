@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Open Source.
 - 📫 How to reach me on : 
-        Instagram - @_impranjal_.
+        Instagram - @__impranjal__.
         Discord - @PranPy
         Spotify - @IAMPRANN
         and other when we meet.😊
