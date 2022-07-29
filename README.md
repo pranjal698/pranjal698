@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Open Source.
 - 📫 How to reach me on : 
-        Instagram - @__impranjal__.
+        Instagram - _impranjal _.
         Discord - @PranPy
         Spotify - @IAMPRANN
-        and other when we meet.😊
+        and other details when we meet or collaborate.😊
 
 <!---
 pranjal698/pranjal698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
